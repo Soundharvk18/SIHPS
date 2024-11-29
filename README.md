@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:29/11/24
+## Register Number:24900371
+## Name:jeya soundhar P
 ## Problem Title
 Implementation of the Alumni Association platform for the University/Institute.
 ## Problem Description
